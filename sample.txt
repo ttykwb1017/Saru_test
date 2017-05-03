@@ -1,5 +1,5 @@
 猿でもわかるGitコマンド
 commit 1
+commit 2 again
 commit 3
-commit 4
-
+chenge is needed
