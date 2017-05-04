@@ -1,4 +1,4 @@
-これはテストです。
+This is branch test.
 ブランチテストですよー
 commit 1
 commit 2 again
