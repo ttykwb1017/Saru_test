@@ -1,4 +1,5 @@
-猿でもわかるGitコマンド
+これはテストです。
+ブランチテストですよー
 commit 1
 commit 2 again
 commit 3
